@@ -1,0 +1,1 @@
+CK2: AUC: 0.93 - AUPR: 0.43 - Precision: 50.00 - Recall: 50.00 - F1: 50.00 - Loss: 0.07

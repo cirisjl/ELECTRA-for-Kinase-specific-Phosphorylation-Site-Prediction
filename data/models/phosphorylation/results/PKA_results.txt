@@ -1,0 +1,1 @@
+PKA: AUC: 0.95 - AUPR: 0.53 - Precision: 75.00 - Recall: 75.00 - F1: 75.00 - Loss: 0.06

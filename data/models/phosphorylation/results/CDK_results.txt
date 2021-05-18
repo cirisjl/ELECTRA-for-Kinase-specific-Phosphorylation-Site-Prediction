@@ -1,0 +1,1 @@
+CDK: AUC: 0.95 - AUPR: 0.50 - Precision: 48.94 - Recall: 48.94 - F1: 48.94 - Loss: 0.05

@@ -1,0 +1,1 @@
+ST: AUC: 0.90 - AUPR: 0.29 - Precision: 35.16 - Recall: 35.16 - F1: 35.16 - Loss: 0.11

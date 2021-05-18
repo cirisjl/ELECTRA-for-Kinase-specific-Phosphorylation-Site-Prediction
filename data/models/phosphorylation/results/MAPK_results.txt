@@ -1,0 +1,1 @@
+MAPK: AUC: 0.95 - AUPR: 0.41 - Precision: 50.72 - Recall: 50.72 - F1: 50.72 - Loss: 0.07
