@@ -39,6 +39,7 @@ sudo apt-get install git-lfs
 ```sh
 sudo yum install git-lfs
 ```
+After installing [Git LFS](https://git-lfs.github.com/), please use the following command to clone the repository.
 
 ```sh
 git lfs clone https://github.com/cirisjl/ELECTRA-for-Kinase-specific-Phosphorylation-Site-Prediction.git
